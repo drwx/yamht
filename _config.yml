@@ -1,12 +1,15 @@
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  归档: /archives
 rss: /atom.xml
 
 archive_date_format: MMM DD
 fancybox: true
 
-duoshuo_shortname:
+language: zh-CN
+
+duoshuo_shortname: riverisme
 
 google_analytics:
+
 favicon: /favicon.ico

@@ -38,3 +38,10 @@
   })(jQuery);
 </script>
 <% } %>
+<script>
+$(document).ready(function() {
+    $('a[href^="http"]').not('[target="_blank"]').each(function() {
+        $(this).attr('target', '_blank');
+    });
+});
+</script>
