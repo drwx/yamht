@@ -1,6 +1,7 @@
 menu:
   首页: /
   归档: /archives
+  『空』: /about
 rss: /atom.xml
 
 archive_date_format: MMM DD
