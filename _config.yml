@@ -10,6 +10,6 @@ language: zh-CN
 
 duoshuo_shortname: riverisme
 
-google_analytics:
+baidu_analytics: 4fba5193867e858e3f8e05b049feb134
 
 favicon: /favicon.ico
